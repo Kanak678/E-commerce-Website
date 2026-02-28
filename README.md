@@ -1,4 +1,4 @@
-# EPIGLAM-# Epiglam – E-commerce Website
+# Epiglam – E-commerce Website
 
 Developed and launched a complete Shopify-based e-commerce website for a skincare startup.
 
@@ -9,4 +9,4 @@ Developed and launched a complete Shopify-based e-commerce website for a skincar
 - Basic SEO optimization
 
 ## Live Website
-[https://.com](https://epiglam.com/)
+https://epiglam.com/
